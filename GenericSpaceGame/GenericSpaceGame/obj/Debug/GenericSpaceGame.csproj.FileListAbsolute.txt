@@ -1,0 +1,12 @@
+C:\GenericSpaceGame\GenericSpaceGame\bin\Debug\GenericSpaceGame.exe.config
+C:\GenericSpaceGame\GenericSpaceGame\bin\Debug\GenericSpaceGame.exe
+C:\GenericSpaceGame\GenericSpaceGame\bin\Debug\GenericSpaceGame.pdb
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.csprojResolveAssemblyReference.cache
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.Form1.resources
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.Properties.Resources.resources
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.csproj.GenerateResource.Cache
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.exe
+C:\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.pdb
+C:\Users\Will\Source\Repos\GenericSpaceGame\GenericSpaceGame\GenericSpaceGame\bin\Debug\GenericSpaceGame.exe.config
+C:\Users\Will\Source\Repos\GenericSpaceGame\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.exe
+C:\Users\Will\Source\Repos\GenericSpaceGame\GenericSpaceGame\GenericSpaceGame\obj\Debug\GenericSpaceGame.pdb
