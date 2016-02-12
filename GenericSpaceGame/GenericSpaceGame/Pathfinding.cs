@@ -32,9 +32,12 @@ namespace GenericSpaceGame
             return CommonMath.Distance(this.x, this.y, n.x, n.y);
         }
     }
-    class NodeList
+    public class NodeList
     {
         List<Node> nlst = new List<Node>();
+        public NodeList()
+        {
 
+        }
     }
 }
